@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "841AAAD71D40B4EC0044F294"
+               BlueprintIdentifier = "84A9A4BF1D489F6E007CB40C"
                BuildableName = "NetEase.app"
                BlueprintName = "NetEase"
                ReferencedContainer = "container:NetEase.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "841AAAEB1D40B4EC0044F294"
+               BlueprintIdentifier = "84A9A4D31D489F6F007CB40C"
                BuildableName = "NetEaseTests.xctest"
                BlueprintName = "NetEaseTests"
                ReferencedContainer = "container:NetEase.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "841AAAF61D40B4EC0044F294"
+               BlueprintIdentifier = "84A9A4DE1D489F6F007CB40C"
                BuildableName = "NetEaseUITests.xctest"
                BlueprintName = "NetEaseUITests"
                ReferencedContainer = "container:NetEase.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "841AAAD71D40B4EC0044F294"
+            BlueprintIdentifier = "84A9A4BF1D489F6E007CB40C"
             BuildableName = "NetEase.app"
             BlueprintName = "NetEase"
             ReferencedContainer = "container:NetEase.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "841AAAD71D40B4EC0044F294"
+            BlueprintIdentifier = "84A9A4BF1D489F6E007CB40C"
             BuildableName = "NetEase.app"
             BlueprintName = "NetEase"
             ReferencedContainer = "container:NetEase.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "841AAAD71D40B4EC0044F294"
+            BlueprintIdentifier = "84A9A4BF1D489F6E007CB40C"
             BuildableName = "NetEase.app"
             BlueprintName = "NetEase"
             ReferencedContainer = "container:NetEase.xcodeproj">

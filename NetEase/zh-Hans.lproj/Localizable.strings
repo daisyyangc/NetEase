@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  NetEase
+
+  Created by WhiteDeng on 16/7/28.
+  Copyright © 2016年 pptv. All rights reserved.
+*/
+
+"tab_theme" = "专题";
+"tab_malls" = "商城";
+"tab_profile" = "我的";
