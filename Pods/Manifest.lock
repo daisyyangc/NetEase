@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Alamofire (3.4.0)
+  - Kingfisher (2.4.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SnapKit (0.21.1)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.5.4)
+  - Alamofire (= 3.4)
+  - Kingfisher (= 2.4)
+  - SDWebImage (= 3.7.5)
+  - SnapKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  Kingfisher: 9171a424ee7f8031f518f649bb850d1eab541247
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SnapKit: bbad04cb016c7cead63965f16b00c09318d271ee
+
+PODFILE CHECKSUM: 8a5103f94eedcec53a74554ee8de6dc5b39f7dca
+
+COCOAPODS: 1.0.1
